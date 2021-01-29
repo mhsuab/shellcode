@@ -90,12 +90,12 @@ The following are screenshots of some legacy systems running the bind assembly c
 
 ## Windows NT ##
 
-![alt text](https://github.com/odzhan/shellcode/blob/master/win/ss/winnt.png)
+![alt text](./x86-64/ss/winnt.png)
 
 ## Windows 2000 ##
 
-![alt text](https://github.com/odzhan/shellcode/blob/master/win/ss/win2k.png)
+![alt text](./x86-64/ss/win2k.png)
 
 ## Windows XP ##
 
-![alt text](https://github.com/odzhan/shellcode/blob/master/win/ss/winxp.png)
+![alt text](./x86-64/ss/winxp.png)
